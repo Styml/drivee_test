@@ -1,0 +1,16 @@
+Recommmendations:
+Order # 0
+  from: (0, 0), where: (1, 1) 
+  total_dist: 60, extra_dist: 0 
+Order # 9
+  from: (1, 13), where: (33, 38) 
+  total_dist: 82, extra_dist: 22 
+Order # 39
+  from: (5, 12), where: (30, 56) 
+  total_dist: 112, extra_dist: 52 
+Order # 78
+  from: (45, 4), where: (39, 34) 
+  total_dist: 98, extra_dist: 38 
+Order # 94
+  from: (21, 29), where: (19, 11) 
+  total_dist: 100, extra_dist: 40 
